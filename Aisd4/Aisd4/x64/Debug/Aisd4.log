@@ -1,0 +1,71 @@
+﻿  Source.cpp
+f:\проги\aisd4\aisd4\source.cpp(39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(52): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(58): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(66): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(72): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(76): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(96): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(98): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(114): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+f:\проги\aisd4\aisd4\source.cpp(115): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+f:\проги\aisd4\aisd4\source.cpp(117): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+f:\проги\aisd4\aisd4\source.cpp(118): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+f:\проги\aisd4\aisd4\source.cpp(119): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+f:\проги\aisd4\aisd4\source.cpp(120): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+f:\проги\aisd4\aisd4\source.cpp(123): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(125): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(137): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+f:\проги\aisd4\aisd4\source.cpp(138): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+f:\проги\aisd4\aisd4\source.cpp(139): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+f:\проги\aisd4\aisd4\source.cpp(140): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+f:\проги\aisd4\aisd4\source.cpp(143): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(145): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(461): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(481): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(498): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(546): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(585): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+f:\проги\aisd4\aisd4\source.cpp(610): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Aisd4.vcxproj -> F:\ПРОГИ\Aisd4\x64\Debug\Aisd4.exe
