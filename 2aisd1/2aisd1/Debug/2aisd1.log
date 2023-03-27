@@ -1,0 +1,3 @@
+﻿  avlTree.cpp
+f:\проги\aisd2sem\2aisd1\2aisd1\avltree.cpp(130): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  2aisd1.vcxproj -> F:\ПРОГИ\Aisd2sem\2aisd1\Debug\2aisd1.exe
